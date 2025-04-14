@@ -1,0 +1,33 @@
+
+Medical Image Analysis Report
+Generated on: 2025-04-14 23:36:30
+
+Disease Information:
+------------------
+Name: Cystic Fibrosis
+Summary: Cystic fibrosis is a genetic disorder that affects the lungs, pancreas, and other organs.
+
+Symptoms:
+--------
+- Persistent cough
+- Frequent lung infections
+- Poor growth
+- Salty-tasting skin
+- Digestive problems
+
+Related Genes:
+------------
+- CFTR gene
+
+Medical Recommendations:
+---------------------
+- Airway clearance techniques
+- Antibiotic therapy
+- Nutritional support
+- Regular pulmonary function tests
+- Pancreatic enzyme replacement
+- Genetic counseling
+
+IMPORTANT NOTE:
+This is an automated analysis and should be verified by a medical professional.
+All recommendations should be discussed with your healthcare provider.

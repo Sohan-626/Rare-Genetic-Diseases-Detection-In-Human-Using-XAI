@@ -1,0 +1,40 @@
+
+Medical Image Analysis Report
+Generated on: 2025-04-12 12:38:32
+
+Disease Information:
+------------------
+Name: Duchenne Muscular Dystrophy
+Summary: Duchenne muscular dystrophy (DMD) is a genetic disorder characterized by progressive muscle degeneration and weakness.
+
+Symptoms:
+--------
+- Muscle weakness starting in legs
+- Difficulty walking and running
+- Frequent falls
+- Enlarged calf muscles
+- Learning difficulties
+- Heart problems
+- Breathing difficulties
+- Scoliosis
+- Contractures in joints
+
+Related Genes:
+------------
+- DMD gene
+
+Medical Recommendations:
+---------------------
+- Regular cardiac monitoring
+- Respiratory function assessment
+- Physical therapy
+- Occupational therapy
+- Corticosteroid therapy
+- Genetic counseling
+- Regular orthopedic evaluations
+- Psychological support
+- Educational support
+
+IMPORTANT NOTE:
+This is an automated analysis and should be verified by a medical professional.
+All recommendations should be discussed with your healthcare provider.

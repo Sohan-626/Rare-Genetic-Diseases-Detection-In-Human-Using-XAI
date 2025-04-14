@@ -1,0 +1,38 @@
+
+Medical Image Analysis Report
+Generated on: 2025-04-12 12:35:58
+
+Disease Information:
+------------------
+Name: Neurofibromatosis Type 1
+Summary: Neurofibromatosis Type 1 (NF1) is a genetic disorder that causes tumors to form on nerve tissue.
+
+Symptoms:
+--------
+- Multiple café-au-lait spots
+- Freckling in armpits and groin
+- Neurofibromas (benign tumors)
+- Lisch nodules in the eyes
+- Bone abnormalities
+- Learning disabilities
+- High blood pressure
+- Head size larger than average
+
+Related Genes:
+------------
+- NF1 gene
+
+Medical Recommendations:
+---------------------
+- Regular monitoring by a genetic specialist
+- Annual eye examinations
+- Regular blood pressure checks
+- MRI scans as needed
+- Psychological support
+- Pain management if needed
+- Surgical consultation for tumor removal if necessary
+- Educational support for learning disabilities
+
+IMPORTANT NOTE:
+This is an automated analysis and should be verified by a medical professional.
+All recommendations should be discussed with your healthcare provider.

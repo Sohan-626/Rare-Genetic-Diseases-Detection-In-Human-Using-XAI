@@ -1,0 +1,304 @@
+{
+    "diseases": {
+        "324": {
+            "name": "Fabry Disease",
+            "orpha_code": "324",
+            "summary": "Fabry disease is a rare genetic disorder characterized by the buildup of a type of fat, called globotriaosylceramide, in the body's cells. This buildup can lead to various symptoms affecting multiple organs.",
+            "symptoms": [
+                "Pain and burning sensations in hands and feet",
+                "Reduced sweating",
+                "Cloudy vision",
+                "Hearing loss",
+                "Heart problems",
+                "Kidney problems"
+            ],
+            "genes": [
+                "GLA (Xq22.1)",
+                "GLA gene mutations",
+                "Alpha-galactosidase A deficiency"
+            ],
+            "diagnostic_methods": [
+                "Genetic testing",
+                "Enzyme activity testing",
+                "Biopsy",
+                "Imaging studies"
+            ],
+            "treatments": [
+                "Enzyme replacement therapy",
+                "Pain management",
+                "Kidney protection",
+                "Heart monitoring"
+            ],
+            "prevalence": "1/40,000 to 1/117,000",
+            "age_of_onset": "Childhood to early adulthood",
+            "inheritance": "X-linked recessive",
+            "medical_priority": "High",
+            "monitoring_frequency": "Monthly",
+            "critical_organs": [
+                "Heart",
+                "Kidneys",
+                "Brain",
+                "Nervous System"
+            ],
+            "emergency_protocol": {
+                "immediate_actions": [
+                    "Pain crisis management",
+                    "Blood pressure monitoring",
+                    "Kidney function assessment",
+                    "Cardiac evaluation"
+                ],
+                "monitoring": [
+                    "Blood pressure",
+                    "Kidney function",
+                    "Heart rhythm",
+                    "Pain levels"
+                ],
+                "family_screening": [
+                    "Genetic testing for family members",
+                    "Carrier testing for females",
+                    "Prenatal testing options"
+                ]
+            }
+        },
+        "355": {
+            "name": "Gaucher Disease",
+            "orpha_code": "355",
+            "summary": "Gaucher disease is a genetic disorder in which fatty substances accumulate in cells and certain organs. It is the most common of the lysosomal storage disorders.",
+            "symptoms": [
+                "Enlarged liver and spleen",
+                "Bone pain and fractures",
+                "Anemia",
+                "Easy bruising",
+                "Fatigue"
+            ],
+            "genes": [
+                "GBA (1q22)",
+                "GBA gene mutations",
+                "Glucocerebrosidase deficiency"
+            ],
+            "diagnostic_methods": [
+                "Enzyme activity testing",
+                "Genetic testing",
+                "Bone marrow examination",
+                "Imaging studies"
+            ],
+            "treatments": [
+                "Enzyme replacement therapy",
+                "Substrate reduction therapy",
+                "Bone strengthening",
+                "Blood transfusion when needed"
+            ],
+            "prevalence": "1/40,000 to 1/60,000",
+            "age_of_onset": "Any age",
+            "inheritance": "Autosomal recessive",
+            "medical_priority": "High",
+            "monitoring_frequency": "Monthly",
+            "critical_organs": [
+                "Liver",
+                "Spleen",
+                "Bones",
+                "Blood"
+            ],
+            "emergency_protocol": {
+                "immediate_actions": [
+                    "Bone crisis management",
+                    "Blood count monitoring",
+                    "Organ size assessment",
+                    "Pain management"
+                ],
+                "monitoring": [
+                    "Blood counts",
+                    "Organ size",
+                    "Bone density",
+                    "Enzyme levels"
+                ],
+                "family_screening": [
+                    "Genetic testing for siblings",
+                    "Carrier testing for parents",
+                    "Prenatal testing options"
+                ]
+            }
+        },
+        "636": {
+            "name": "Neurofibromatosis Type 1",
+            "orpha_code": "636",
+            "summary": "Neurofibromatosis type 1 is a genetic condition characterized by changes in skin coloring and the growth of tumors along nerves in the skin, brain, and other parts of the body.",
+            "symptoms": [
+                "Café-au-lait spots",
+                "Neurofibromas",
+                "Learning disabilities",
+                "Skeletal abnormalities",
+                "Vision problems"
+            ],
+            "genes": [
+                "NF1 (17q11.2)",
+                "NF1 gene mutations",
+                "Neurofibromin deficiency"
+            ],
+            "diagnostic_methods": [
+                "Clinical examination",
+                "Genetic testing",
+                "Imaging studies",
+                "Eye examination"
+            ],
+            "treatments": [
+                "Surgical removal of tumors",
+                "Pain management",
+                "Physical therapy",
+                "Educational support"
+            ],
+            "prevalence": "1/3,000",
+            "age_of_onset": "Birth",
+            "inheritance": "Autosomal dominant",
+            "medical_priority": "Medium",
+            "monitoring_frequency": "Annual",
+            "critical_organs": [
+                "Brain",
+                "Spine",
+                "Eyes",
+                "Skin"
+            ],
+            "emergency_protocol": {
+                "immediate_actions": [
+                    "Tumor growth monitoring",
+                    "Pain assessment",
+                    "Neurological evaluation",
+                    "Vision check"
+                ],
+                "monitoring": [
+                    "Tumor size",
+                    "Pain levels",
+                    "Neurological function",
+                    "Vision changes"
+                ],
+                "family_screening": [
+                    "Genetic testing for children",
+                    "Clinical examination of family members",
+                    "Regular monitoring schedule"
+                ]
+            }
+        },
+        "586": {
+            "name": "Cystic Fibrosis",
+            "orpha_code": "586",
+            "summary": "Cystic fibrosis is a genetic disorder that affects the lungs, digestive system, and other organs. It is characterized by the production of abnormally thick, sticky mucus.",
+            "symptoms": [
+                "Persistent lung infections",
+                "Breathing difficulties",
+                "Poor growth",
+                "Digestive problems",
+                "Salty-tasting skin"
+            ],
+            "genes": [
+                "CFTR (7q31.2)",
+                "CFTR gene mutations",
+                "Chloride channel dysfunction"
+            ],
+            "diagnostic_methods": [
+                "Sweat test",
+                "Genetic testing",
+                "Newborn screening",
+                "Lung function tests"
+            ],
+            "treatments": [
+                "Airway clearance",
+                "Inhaled medications",
+                "Antibiotics",
+                "Nutritional support"
+            ],
+            "prevalence": "1/2,500 to 1/3,500",
+            "age_of_onset": "Early infancy",
+            "inheritance": "Autosomal recessive",
+            "medical_priority": "High",
+            "monitoring_frequency": "Weekly",
+            "critical_organs": [
+                "Lungs",
+                "Pancreas",
+                "Liver",
+                "Intestines"
+            ],
+            "emergency_protocol": {
+                "immediate_actions": [
+                    "Airway clearance",
+                    "Oxygen therapy if needed",
+                    "Antibiotic treatment",
+                    "Nutritional support"
+                ],
+                "monitoring": [
+                    "Lung function",
+                    "Oxygen levels",
+                    "Nutrition status",
+                    "Infection signs"
+                ],
+                "family_screening": [
+                    "Genetic testing for siblings",
+                    "Carrier testing for parents",
+                    "Newborn screening"
+                ]
+            }
+        },
+        "98896": {
+            "name": "Duchenne Muscular Dystrophy",
+            "orpha_code": "98896",
+            "summary": "Duchenne muscular dystrophy is a genetic disorder characterized by progressive muscle degeneration and weakness. It primarily affects boys and is one of the most common types of muscular dystrophy.",
+            "symptoms": [
+                "Progressive muscle weakness",
+                "Difficulty walking",
+                "Frequent falls",
+                "Enlarged calves",
+                "Learning disabilities"
+            ],
+            "genes": [
+                "DMD"
+            ],
+            "diagnostic_methods": [
+                "Genetic testing",
+                "Muscle biopsy",
+                "Blood tests",
+                "Electromyography"
+            ],
+            "treatments": [
+                "Physical therapy",
+                "Corticosteroids",
+                "Respiratory support",
+                "Cardiac monitoring"
+            ],
+            "prevalence": "1/3,500 to 1/5,000 male births",
+            "age_of_onset": "Early childhood",
+            "inheritance": "X-linked recessive",
+            "medical_priority": "High",
+            "monitoring_frequency": "Monthly",
+            "critical_organs": [
+                "Skeletal Muscles",
+                "Heart",
+                "Lungs",
+                "Spine"
+            ],
+            "emergency_protocol": {
+                "immediate_actions": [
+                    "Respiratory support if needed",
+                    "Cardiac monitoring",
+                    "Pain management",
+                    "Mobility assistance"
+                ],
+                "monitoring": [
+                    "Muscle strength",
+                    "Respiratory function",
+                    "Cardiac function",
+                    "Mobility status"
+                ],
+                "family_screening": [
+                    "Genetic testing for siblings",
+                    "Carrier testing for females",
+                    "Prenatal testing options"
+                ]
+            }
+        }
+    },
+    "metadata": {
+        "last_updated": "2024-04-06",
+        "version": "1.0",
+        "source": "Orphanet Database",
+        "update_frequency": "Monthly"
+    }
+} 

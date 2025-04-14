@@ -1,0 +1,40 @@
+
+Medical Image Analysis Report
+Generated on: 2025-04-12 16:06:11
+
+Disease Information:
+------------------
+Name: Marfan Syndrome
+Summary: Marfan syndrome is a genetic disorder that affects the body's connective tissue, which provides strength and flexibility to bones, blood vessels, and other parts of the body.
+
+Symptoms:
+--------
+- Tall and slender build
+- Long arms, legs, and fingers
+- Flexible joints
+- Curved spine (scoliosis)
+- Chest sinks in or sticks out
+- Heart problems (especially aortic enlargement)
+- Eye problems (lens dislocation)
+- Stretch marks on skin
+- Flat feet
+
+Related Genes:
+------------
+- FBN1 gene (Fibrillin-1)
+
+Medical Recommendations:
+---------------------
+- Regular cardiac monitoring
+- Annual eye examinations
+- Regular skeletal evaluations
+- Avoid high-intensity contact sports
+- Monitor blood pressure
+- Regular aortic imaging
+- Genetic counseling
+- Physical therapy if needed
+- Preventive medication for aortic protection
+
+IMPORTANT NOTE:
+This is an automated analysis and should be verified by a medical professional.
+All recommendations should be discussed with your healthcare provider.
